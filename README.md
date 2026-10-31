@@ -157,14 +157,12 @@ A civic-tech system exploring AI-assisted citizen-report classification, duplica
 <div align="center">
 
 <!-- These cards fetch updated public GitHub data dynamically. -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaganp-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats and public contributions" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganp-10&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages across repositories" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Gaganp-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats and public contributions" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaganp-10&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages across repositories" />
 
 <!-- Streak updates from GitHub activity. -->
-<img width="72%" src="https://streak-stats.demolab.com?user=Gaganp-10&theme=tokyonight&hide_border=true" alt="Daily GitHub contribution streak" />
+<img width="72%" src="https://streak-stats.demolab.com/?user=Gaganp-10&theme=tokyonight&hide_border=true" alt="Daily GitHub contribution streak" />
 
-<!-- Contribution graph is generated from GitHub contribution activity. -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganp-10&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
