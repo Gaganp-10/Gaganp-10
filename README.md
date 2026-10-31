@@ -75,7 +75,7 @@ Building scalable backend systems, full-stack applications, and data-driven solu
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [MedNexa](https://github.com/Gaganp-10)
+### 🩺 [MedNexa](https://github.com/Gaganp-10?tab=repositories)
 **Post-Surgery Remote Monitoring System**
 
 A remote recovery monitoring platform for patients and healthcare professionals, featuring daily health updates, medication adherence tracking, alerts, and wound monitoring.
@@ -117,6 +117,91 @@ A civic-tech system exploring AI-assisted citizen-report classification, duplica
 </td>
 </tr>
 </table>
+
+---
+
+## 🏗️ Systems I've Built & Worked On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [SentinelAI](https://github.com/Gaganp-10/SentinelAI)
+**Security Vulnerability Detection**
+
+Exploring static code analysis and software vulnerability detection workflows.
+
+**Stack:** Python · Security Analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 [Nestora](https://github.com/Gaganp-10/Nestora)
+**PG & Hostel Finder**
+
+A student-focused platform for discovering accommodation with structured listings and database-backed workflows.
+
+**Stack:** Python · Flask · MySQL · SQLAlchemy
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌆 [Smart City](https://github.com/Gaganp-10/smart-city)
+**Smart-City Concepts**
+
+A repository exploring web development and smart-city related functionality.
+
+**Stack:** HTML · Web Development
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Data Science](https://github.com/Gaganp-10/datascience2)
+**Data Analysis & Notebooks**
+
+Experiments and notebooks for data science, exploration, and analytical workflows.
+
+**Stack:** Python · Jupyter · Data Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [CivicSense AI](https://github.com/HNK69/CivicSenseAI)
+**Municipal Decision Intelligence**
+
+Civic issue analysis with classification, duplicate clustering, severity reasoning, and department routing.
+
+**Stack:** JavaScript · AI-assisted workflows · GIS
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Sahay AI](https://github.com/Gaganp-10/sahay-ai)
+**AI-powered Application**
+
+A public project exploring application development and user-focused workflows.
+
+**Stack:** HTML · JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Engineering Highlights
+
+- 📌 Building and iterating on full-stack applications from frontend integration to backend APIs
+- 🔐 Exploring secure coding and vulnerability-analysis workflows through **SentinelAI**
+- 🏥 Developing **MedNexa**, a remote post-surgery monitoring concept
+- 🏙️ Working on civic-tech and student-focused solutions such as **CivicSense AI** and **Nestora**
+- 📚 Practicing Data Structures & Algorithms and strengthening core software engineering fundamentals
+
+---
 
 ---
 
@@ -171,22 +256,44 @@ A civic-tech system exploring AI-assisted citizen-report classification, duplica
 ## 🔭 Currently Exploring
 
 ```text
-Backend & Full-Stack Engineering
+Backend Engineering
 ├── REST API architecture and best practices
 ├── Django, FastAPI, and Flask applications
 ├── Authentication, testing, and security
 └── Database design and optimization
 
-LangChain
-└── Exploring LangChain integrations and application workflows
+Full-Stack Development
+├── React and frontend/backend integration
+├── Responsive application development
+└── Deployment and containerization fundamentals
 
-Data & Problem Solving
-├── Data analysis with Pandas and NumPy
+Data Analysis
+├── Data cleaning and preprocessing
+├── Exploratory data analysis (EDA)
+├── Pandas, NumPy, and visualization
+└── Turning data into useful insights
+
+Problem Solving
 ├── Data Structures & Algorithms
-└── System design fundamentals
+├── System design fundamentals
+└── Writing maintainable, production-oriented code
 ```
 
 ---
+
+## 📌 Featured Repositories
+
+These are my current project highlights. You can also find my latest repositories from the **Repositories** tab on GitHub.
+
+- [SentinelAI](https://github.com/Gaganp-10/SentinelAI)
+- [Nestora](https://github.com/Gaganp-10/Nestora)
+- [Sahay AI](https://github.com/Gaganp-10/sahay-ai)
+- [Smart City](https://github.com/Gaganp-10/smart-city)
+- [Data Science](https://github.com/Gaganp-10/datascience2)
+- [CivicSense AI](https://github.com/HNK69/CivicSenseAI)
+
+> GitHub's profile **pinned repositories are selected separately** using *Customize your pins*. The list above is editable text and does not automatically sync with pins.
+
 
 <div align="center">
 
